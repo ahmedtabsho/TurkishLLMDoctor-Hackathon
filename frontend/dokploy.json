@@ -1,0 +1,9 @@
+{
+  "name": "nukletotit-health-chatbot",
+  "framework": "create-react-app",
+  "buildCommand": "npm run build",
+  "outputDirectory": "build",
+  "environment": {
+    "REACT_APP_API_URL": "https://your-backend-api-url.com"
+  }
+}
