@@ -10,6 +10,8 @@ Nükleotit AI, Türkçe sağlık sorularına özelleşmiş, yapay zeka destekli 
 
 <img width="1206" height="796" alt="Screenshot from 2025-08-14 18-04-36" src="https://github.com/user-attachments/assets/6666f978-6eda-4588-ac94-0caa6b298f1b" />
 
+<video src="demo.mp4" controls width="600"></video>
+
 
 ## 🎯 Temel Özellikler
 
