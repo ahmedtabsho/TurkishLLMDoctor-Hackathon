@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: nukleotitbackend
+    env: docker
+    plan: free
+    region: frankfurt
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: PORT
+        value: 8080
