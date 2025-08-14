@@ -2,7 +2,6 @@
 
 ![Nükleotit AI Logo](https://img.shields.io/badge/Nükleotit-AI%20Powered-blue?style=for-the-badge&logo=dna)
 
-**🚀 Canlı Uygulama:** [https://nukleotitai.vercel.app](https://nukleotitai.vercel.app)
 
 ## 🌟 Proje Özeti
 
