@@ -1,4 +1,4 @@
-# 🧬 Nükleotit AI - Türkçe Sağlık Analiz Asistanı
+# 🧬 Nükleotit AI - Türkçe Konuşan Nadir Hastalıkları Tespit eden LLM
 
 ![Nükleotit AI Logo](https://img.shields.io/badge/Nükleotit-AI%20Powered-blue?style=for-the-badge&logo=dna)
 
