@@ -125,7 +125,7 @@ Nükleotit AI, Türkçe sağlık sorularına özelleşmiş, yapay zeka destekli 
 ### Uzun Vadeli (6-12 ay)
 - 🤖 **Görüntü Analizi** (Radyoloji, Patoloji)
 - 🧬 **Genetik Analiz** modülleri
-- 🌐 **Çoklu Dil Desteği** (Arapça, Kürtçe)
+- 🌐 **Çoklu Dil Desteği**
 - 🎯 **Kişiselleştirilmiş** öneriler
 
 ## 👥 Takım
