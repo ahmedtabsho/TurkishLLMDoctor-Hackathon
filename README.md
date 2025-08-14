@@ -29,11 +29,6 @@ Nükleotit AI, Türkçe sağlık sorularına özelleşmiş, yapay zeka destekli 
 - Güncel araştırma makalelerine direkt erişim
 - Kanıta dayalı tıp yaklaşımı
 
-### 🔬 Uzman Danışman Ağı
-- Uluslararası sağlık uzmanları veritabanı
-- Çok dilli uzman erişimi (Türkiye, ABD, Meksika, Japonya, İsveç)
-- Direkt iletişim bilgileri
-
 ## 🛠️ Teknik Altyapı
 
 ### Frontend
