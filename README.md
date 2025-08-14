@@ -8,6 +8,10 @@
 
 Nükleotit AI, Türkçe sağlık sorularına özelleşmiş, yapay zeka destekli bir analiz platformudur. EPFL'nin geliştirdiği MEDITRON-70B modelini Türkçe sağlık verileriyle fine-tune ederek, doktorlara ve sağlık profesyonellerine yardımcı olan kapsamlı bir asistan oluşturduk.
 
+
+<img width="1206" height="796" alt="Screenshot from 2025-08-14 18-04-36" src="https://github.com/user-attachments/assets/6666f978-6eda-4588-ac94-0caa6b298f1b" />
+
+
 ## 🎯 Temel Özellikler
 
 ### 🤖 Gelişmiş AI Analiz
