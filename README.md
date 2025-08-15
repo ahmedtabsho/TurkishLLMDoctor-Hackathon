@@ -130,18 +130,10 @@ Nükleotit AI, Türkçe sağlık sorularına özelleşmiş, yapay zeka destekli 
 ### Geliştirme Ekibi
 - 🧠 **AI/ML Engineers** - Model geliştirme ve optimizasyon
 - 💻 **Frontend Developers** - React.js uzmanları
-- 🔧 **Backend Engineers** - Veri işleme ve API geliştirme
-- 👨‍⚕️ **Medical Advisors** - Sağlık profesyonelleri
-
-### Danışman Uzmanlar
-- Dr. Ayşe Demir (Hacettepe Üniversitesi)
-- Prof. John Smith (Johns Hopkins)
-- Dr. Maria Gonzalez (UNAM)
-- Prof. Hiroshi Takahashi (Tokyo Üniversitesi)
+- 🔧 **Backend Engineers** - Veri işleme
 
 ## 📞 İletişim
 
-- 🌐 **Web:** [nukleotitai.vercel.app](https://nukleotitai.vercel.app)
 - 📧 **E-posta:** info@nukleotitai.com
 - 🐦 **Twitter:** @NukleotitAI
 - 💼 **LinkedIn:** /company/nukleotit-ai
@@ -159,6 +151,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için LICENSE dosyas
 ---
 
 **⭐ Projeyi beğendiyseniz yıldız vermeyi unutmayın!**
-
+#BilisimVadisi #TDDİ2025  #Dogaldilisleme #Togetherwecan #birliktebasarabiliriz #acikkaynak
 ![GitHub stars](https://img.shields.io/github/stars/username/nukleotit-ai?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/username/nukleotit-ai?style=social)
