@@ -68,7 +68,7 @@ Nükleotit AI, Türkçe sağlık sorularına özelleşmiş, yapay zeka destekli 
 
 ### 4. 📊 Kapsamlı Veri Analizi
 - Hastalık trendleri ve istatistikleri
-- İlaç fiyat karşılaştırmaları
+- İlaç bilgi karşılaştırmaları
 - Global sağlık verilerinin analizi
 
 ## 🚀 Kullanım Senaryoları
@@ -97,12 +97,6 @@ Nükleotit AI, Türkçe sağlık sorularına özelleşmiş, yapay zeka destekli 
 - ✅ **90%+** Doğruluk oranı Türkçe medical Q&A'da
 - ⚡ **< 3 saniye** Ortalama yanıt süresi
 - 🎯 **85%+** Kullanıcı memnuniyeti
-
-### Platform İstatistikleri
-- 📊 **10,000+** Medikal sorgu işlendi
-- 📚 **5,000+** Akademik makale erişimi
-- 👥 **500+** Aktif kullanıcı
-- 🌍 **15+** Ülkeden erişim
 
 ## 🛡️ Güvenlik ve Gizlilik
 
