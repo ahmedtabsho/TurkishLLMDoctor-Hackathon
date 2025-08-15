@@ -20,7 +20,7 @@ Nükleotit AI, Türkçe sağlık sorularına özelleşmiş, yapay zeka destekli 
 
 ### 📊 Görsel Analiz Araçları
 - **Risk Faktörleri Analizi**: Hastalık risk faktörlerinin görsel sunumu
-- **İlaç Fiyatları Takibi**: Güncel ilaç fiyat karşılaştırmaları
+- **İlaç bilgi Takibi**: Güncel ilaç bilgileri.
 - **İstatistiksel Grafikler**: Hastalık yaygınlığı ve trend analizleri
 - **Global Sağlık Verileri**: Ülkeler arası karşılaştırma grafikleri
 
